@@ -1,11 +1,35 @@
-* Feature Annotations
-** [#A] Feature regions
-*** height
-*** color
-*** legend
-*** positioning
-*** visible
-** Feature types (with defaults for feature attributes)
-*** alignment
-*** IR
-*** gene
+*  [#A] Feature Annotations
+** [#A] Feature types (with defaults for feature attributes)
+*** [#A] alignment
+*** [#A] generic
+*** [#C] gene
+** [#A] Feature style
+*** [#A] visible
+*** [#A] height
+*** [#A] color
+*** [#A] label->id
+*** [#B] positioning
+* [#A] Genome order
+** [#A] direct
+** [#B] by tree
+** [#C] chromosome order
+* [#B] Draw order tree
+* [#A] Labels
+** [#A] Genome
+** [#B] Chromosome
+** [#C] Feature
+** [#B] Ticks
+* [#B] Colors
+** [#B] Gradient
+* [#A] Config
+** [#A] width
+** [#A] height
+*** [#A] per genome
+*** [#A] chromosome (style for chr feature)
+** [#B] margins
+** [#B] Labels
+** [#B] tick size
+** [#C] Abgerundetheit
+** [#C] Gradient (min, max, colors)
+* [#B] Legend
+** [#B] from feature types
