@@ -1,0 +1,11 @@
+* Feature Annotations
+** [#A] Feature regions
+*** height
+*** color
+*** legend
+*** positioning
+*** visible
+** Feature types (with defaults for feature attributes)
+*** alignment
+*** IR
+*** gene
